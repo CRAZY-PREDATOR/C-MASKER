@@ -15,7 +15,7 @@ FOR EDUCATIONAL PURPOSES ONLY. Usage of c-phish for attacking targets without pr
 ## Installation 
 
 ```
-git clone https://github.com/CRAZY-PREDATOR/c-masker
+git clone https://github.com/CRAZY-PREDATOR/C-MASKER.git
 cd C-MASKER
 bash c-phish.sh
 ```
